@@ -3,6 +3,7 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Yacht Drive Types" />
+			<Item Name="Description" Value="description 33" />
 		</Items>
 	</Group>
 </Resources>
